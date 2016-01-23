@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="At_least_one_pic_is_required">At least one picture is required</string>
+     <string name="At_least_one_pic_is_required">En az 1 resim gerekli</string>
      <string name="Color">Global Sat.: 0</string>
-     <string name="Disconnecd_WFD">Turn off Wi-Fi Display</string>
+     <string name="Disconnecd_WFD">Wi-Fi Display kapat</string>
      <string name="Do_you_want_to_exit_the_current_edit">Do you want to exit the current edit?</string>
      <string name="Fixed">Sabit</string>
      <string name="GrassTone">Grass tone(Hue): 5</string>
