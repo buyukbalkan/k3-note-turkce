@@ -750,13 +750,13 @@ Current quantity(%d%%)</string>
      <string name="lenovo_new_event_vibrator_setting_summary">Kilit ekranı arabiriminde, telefon sizi okunmamış bir etkinlikle ilgili uyarmak için titrer</string>
      <string name="lenovo_new_event_vibrator_setting_title">Okunmamış etkinlik titreşim uyarısı</string>
      <string name="lenovo_no_app_nofitication">Uygulama yok</string>
-     <string name="lenovo_noti_assistant_disable_notifications_dlg_title">Turn off notifications?</string>
-     <string name="lenovo_noti_assistant_item_desc">%s notification(s) sent in the past week</string>
-     <string name="lenovo_noti_assistant_item_disable_btn">Disable</string>
-     <string name="lenovo_noti_assistant_item_disable_notifications_dlg_text">If you turn off notifications for this app, you may miss important alerts and updates.
+     <string name="lenovo_noti_assistant_disable_notifications_dlg_title">Bildirimleri kapat?</string>
+     <string name="lenovo_noti_assistant_item_desc">%s bildirim(ler) geçtiğimiz hafta gönderildi</string>
+     <string name="lenovo_noti_assistant_item_disable_btn">iptal</string>
+     <string name="lenovo_noti_assistant_item_disable_notifications_dlg_text">Bu uygulama için bildirimleri kapatırsanız önemli uyarı ve güncellemeleri kaçırabilirsiniz.
 
-You can recover from the &quot;Settings - Notification Center - App notification management&quot; menu.</string>
-     <string name="lenovo_noti_assistant_item_enable_btn">Enable</string>
+Daha sonra &quot;Ayarlar - Bildirim merkezi - Uygulama bildirimlerini düzenle&quot; menüsünden geri açabilirsiniz.</string>
+     <string name="lenovo_noti_assistant_item_enable_btn">Aktifleştir</string>
      <string name="lenovo_noti_assistant_item_enable_toast_text">Notifications for &quot;%1$s&quot; enabled</string>
      <string name="lenovo_noti_assistant_noti_num_unit"></string>
      <string name="lenovo_noti_assistant_noti_num_zero">No notifications</string>
